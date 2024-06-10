@@ -12,3 +12,5 @@
 ## 使用方式
 
 代码生成工具位于 https://github.com/lazygophers/codegen 下，你可以参考其使用方式。
+
+文档详见 https://lazygophers.pages.dev
